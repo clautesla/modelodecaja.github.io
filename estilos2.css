@@ -1,0 +1,15 @@
+.caja{
+    display: inline-block;
+}
+.caja1{
+    background-color: red;
+    margin-right: 10px;
+}
+.caja2{
+    background-color: blue;
+    margin-left: 10px;
+}
+
+/* Los márgenes laterales si se suman. En cambio los margenes
+verticales no, lo que se hace es tomar el mayor de ambos.
+*/  

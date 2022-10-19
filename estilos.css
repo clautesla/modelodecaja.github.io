@@ -1,0 +1,15 @@
+.caja{
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 5px solid blue;
+    margin: 10px;
+    /*
+    margin: 10px---> indica 10 pixeles a las cuatro coordenadas
+    margin: 10px 10px --> indica 10px top y botton 10px right y left
+    margin: 10px 10px 10px --> 10px top, 10px right y 10px botton 
+    margin: 10px 10px 10px 10px--> 10px top, 10px right, 10px botton y 10px left
+    */
+}
+
